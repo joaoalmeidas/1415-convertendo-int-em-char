@@ -15,6 +15,7 @@ public class IntCaracteres {
 			
 			System.out.printf("%c ", caracteres[i]);
 			
+			
 			if(i%20 == 0) {
 				
 				System.out.println();
